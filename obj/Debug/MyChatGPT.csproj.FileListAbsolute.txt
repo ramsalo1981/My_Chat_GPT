@@ -1,0 +1,15 @@
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\bin\Debug\MyChatGPT.exe.config
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\bin\Debug\MyChatGPT.exe
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\bin\Debug\MyChatGPT.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.csproj.AssemblyReference.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.myChatGPT.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.Properties.Resources.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.csproj.GenerateResource.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.exe
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.frmError.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.frmImage.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.frmMain.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\MyChatGPT\obj\Debug\MyChatGPT.frmMessage.resources
